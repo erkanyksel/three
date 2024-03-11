@@ -1,0 +1,15 @@
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\Collections\three\bin\Debug\net7.0\three.exe
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\Collections\three\bin\Debug\net7.0\three.deps.json
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\Collections\three\bin\Debug\net7.0\three.runtimeconfig.json
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\Collections\three\bin\Debug\net7.0\three.dll
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\Collections\three\bin\Debug\net7.0\three.pdb
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\Collections\three\obj\Debug\net7.0\three.csproj.AssemblyReference.cache
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\Collections\three\obj\Debug\net7.0\three.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\Collections\three\obj\Debug\net7.0\three.AssemblyInfoInputs.cache
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\Collections\three\obj\Debug\net7.0\three.AssemblyInfo.cs
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\Collections\three\obj\Debug\net7.0\three.csproj.CoreCompileInputs.cache
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\Collections\three\obj\Debug\net7.0\three.dll
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\Collections\three\obj\Debug\net7.0\refint\three.dll
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\Collections\three\obj\Debug\net7.0\three.pdb
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\Collections\three\obj\Debug\net7.0\three.genruntimeconfig.cache
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\Collections\three\obj\Debug\net7.0\ref\three.dll
